@@ -1,0 +1,14 @@
+/home/lucalves/RiderProjects/TaskTrackerConsole/TaskTrackerConsole/bin/Debug/net10.0/TaskTrackerConsole
+/home/lucalves/RiderProjects/TaskTrackerConsole/TaskTrackerConsole/bin/Debug/net10.0/TaskTrackerConsole.deps.json
+/home/lucalves/RiderProjects/TaskTrackerConsole/TaskTrackerConsole/bin/Debug/net10.0/TaskTrackerConsole.runtimeconfig.json
+/home/lucalves/RiderProjects/TaskTrackerConsole/TaskTrackerConsole/bin/Debug/net10.0/TaskTrackerConsole.dll
+/home/lucalves/RiderProjects/TaskTrackerConsole/TaskTrackerConsole/bin/Debug/net10.0/TaskTrackerConsole.pdb
+/home/lucalves/RiderProjects/TaskTrackerConsole/TaskTrackerConsole/obj/Debug/net10.0/TaskTrackerConsole.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucalves/RiderProjects/TaskTrackerConsole/TaskTrackerConsole/obj/Debug/net10.0/TaskTrackerConsole.AssemblyInfoInputs.cache
+/home/lucalves/RiderProjects/TaskTrackerConsole/TaskTrackerConsole/obj/Debug/net10.0/TaskTrackerConsole.AssemblyInfo.cs
+/home/lucalves/RiderProjects/TaskTrackerConsole/TaskTrackerConsole/obj/Debug/net10.0/TaskTrackerConsole.csproj.CoreCompileInputs.cache
+/home/lucalves/RiderProjects/TaskTrackerConsole/TaskTrackerConsole/obj/Debug/net10.0/TaskTrackerConsole.dll
+/home/lucalves/RiderProjects/TaskTrackerConsole/TaskTrackerConsole/obj/Debug/net10.0/refint/TaskTrackerConsole.dll
+/home/lucalves/RiderProjects/TaskTrackerConsole/TaskTrackerConsole/obj/Debug/net10.0/TaskTrackerConsole.pdb
+/home/lucalves/RiderProjects/TaskTrackerConsole/TaskTrackerConsole/obj/Debug/net10.0/TaskTrackerConsole.genruntimeconfig.cache
+/home/lucalves/RiderProjects/TaskTrackerConsole/TaskTrackerConsole/obj/Debug/net10.0/ref/TaskTrackerConsole.dll
