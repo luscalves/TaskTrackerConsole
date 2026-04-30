@@ -1,29 +1,20 @@
-﻿//JOGAR ESSA PARTE PARA UM SLIDE
-/*
-Console.WriteLine("Meu nome é Lucas ALves");
-Console.WriteLine("Estou estudando C# para me tornar um desenvolvedor backend .NET");
-Console.WriteLine("Bem-vindo ao Task Tracker Console!");
-Console.WriteLine("Hoje estou criando a base do projeto.");
+﻿Console.WriteLine("==================================");
+Console.WriteLine("       TASK TRACKER CONSOLE       ");
+Console.WriteLine("==================================");
 
-Console.WriteLine("Este projeto será um gerenciador de tarefas \n ele será feito em C# usando console \n" +
-                  "vou evoluir ele durante meus estudos");
+Console.WriteLine("Cadastro de nova tarefa\n");
 
-Console.WriteLine("O projeto terá:\n-Cadastro de tarefas;\n-Status:pendente, em andamento, concluída;\n" +
-                  "-Filtro por status;-Pesistência em arquivo JSON;\n-README explicando decisões.");
-*/
-//SLIDE
-Console.WriteLine("=======================================");
-Console.WriteLine("        TASK TRACKER CONSOLE           ");
+Console.WriteLine("Digite o título da tarefa: ");
+string tarefa = Console.ReadLine();
+Console.WriteLine("Digite a descrição da tarefa: ");
+string descricao = Console.ReadLine();gi
+Console.WriteLine("Digite o status da tarefa: ");
+string status = Console.ReadLine();
 
-Console.WriteLine("=======================================");
-Console.WriteLine("-----SISTEMA INICIADO COM SUCESSO.-----");
-Console.WriteLine("=======================================");
-
-Console.WriteLine("O objetivo desse projeto console em C# é praticar lógica, Git e Backend\n");
-Console.WriteLine("MENU:");
-Console.WriteLine("01 - Cadastrar tarefa");
-Console.WriteLine("02 - Listar tarefas");
-Console.WriteLine("00 - Sair");
-
-
-                  
+Console.WriteLine("==================================");
+Console.WriteLine("         TAREFA CADASTRADA        ");
+Console.WriteLine("==================================");
+Console.WriteLine($"Título: {tarefa}");
+Console.WriteLine($"Descricao: {descricao}");
+Console.WriteLine($"Status: {status}");
+Console.WriteLine("===================================");

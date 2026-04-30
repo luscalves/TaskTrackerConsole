@@ -12,3 +12,4 @@
 /home/lucalves/RiderProjects/TaskTrackerConsole/TaskTrackerConsole/obj/Debug/net10.0/TaskTrackerConsole.pdb
 /home/lucalves/RiderProjects/TaskTrackerConsole/TaskTrackerConsole/obj/Debug/net10.0/TaskTrackerConsole.genruntimeconfig.cache
 /home/lucalves/RiderProjects/TaskTrackerConsole/TaskTrackerConsole/obj/Debug/net10.0/ref/TaskTrackerConsole.dll
+/home/lucalves/RiderProjects/TaskTrackerConsole/TaskTrackerConsole/obj/Debug/net10.0/TaskTrackerConsole.sourcelink.json
